@@ -10,7 +10,7 @@ O **House Service** é uma plataforma web criada para conectar clientes e profis
 
 🔗 **Landing Page**
 
-> *(Adicione aqui o link do GitHub Pages quando publicar o projeto.)*
+> * https://heloysaf.github.io/HOUSE-SERVICE-/*
 
 ---
 
@@ -93,7 +93,7 @@ Durante o desenvolvimento foram utilizados conceitos importantes de Front-End, c
 
 Você pode acessar o projeto diretamente pelo GitHub Pages:
 
-🔗 **(adicione aqui o link quando publicar)**
+🔗 **https://heloysaf.github.io/HOUSE-SERVICE-/**
 
 Ou executar localmente:
 
